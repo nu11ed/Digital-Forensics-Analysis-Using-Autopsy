@@ -4,7 +4,7 @@ Autopsy is a computer program that performs forensic searches of computer storag
 
 # Backstory 
 
-I was tasked with analyzing a criminal who was a well-known hacker. We will look into his hard drive and see what we find. 
+I was tasked with analyzing a well-known hacker who was a criminal. We will look into his hard drive and see what we find. 
 
 # Proof of concept 
 
