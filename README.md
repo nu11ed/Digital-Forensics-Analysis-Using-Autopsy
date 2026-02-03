@@ -1,6 +1,6 @@
 # What is Autopsy?
 
-Autopsy is a computer program that performs forensic searches of computer storage volumes. 
+Autopsy is an open-source, graphical interface for The Sleuth Kit (TSK) and other digital forensics tools. It is the industry standard for law enforcement, military, and corporate examiners to investigate what happened on a computer.
 
 # Backstory 
 
